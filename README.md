@@ -48,6 +48,7 @@ QuantumOpt-Cirq-Synth-Enterprise-Agent/
 │
 ├── QuantumOpt-Cirq-Synth-Enterprise-Agent.ipynb    # Main notebook with code and documentation
 ├── README.md                                       # Project documentation
+├── License                                         # MIT                                    
 ```
 
 ## License
